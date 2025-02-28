@@ -1,0 +1,7 @@
+version: "3"
+
+tasks:
+  run:
+    desc: Run a jupyterlab server for generating images using dalle
+    cmds:
+      - uv run jupyter-lab --notebook-dir "jupyter"

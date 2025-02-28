@@ -1,7 +1,7 @@
 [project]
 name = "dalle-image-gen"
 version = "0.1.0"
-description = "Add your description here"
+description = "Super simple helper for generating images with Dall-E"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
